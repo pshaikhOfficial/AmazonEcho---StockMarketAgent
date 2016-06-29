@@ -1,0 +1,27 @@
+GetPortfolioStatus can you please get my todays portfolio status
+GetPortfolioStatus get my todays portfolio status
+GetPortfolioStatus my portfolio status
+GetPortfolioStatus portfolio status
+
+CheckAccountBalance what is my Demat account balance
+CheckAccountBalance my Demat account balance
+CheckAccountBalance get Demat account balance
+
+SetBuyOrder buy for {Date} for {Company} for amount {Amount} at the Rate Range of rupees {RangeTo} with stop loss at rupees {RangeFrom}
+
+ConfirmBuyOrder yes
+ConfirmBuyOrder yep
+ConfirmBuyOrder yeah
+ConfirmBuyOrder sure
+ConfirmBuyOrder yes please
+ConfirmBuyOrder affirmative
+ConfirmBuyOrder no
+ConfirmBuyOrder nope
+ConfirmBuyOrder no thank you
+ConfirmBuyOrder not now
+ConfirmBuyOrder negative
+
+StockRecommendations can you please Get the recommendations on portfolio stock
+StockRecommendations get the recommendations on portfolio stock
+StockRecommendations recommendations on portfolio stock 
+StockRecommendations any recommendations on portfolio stock 

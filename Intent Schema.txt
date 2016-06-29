@@ -1,0 +1,41 @@
+{
+  "intents": [
+    {
+      "intent": "GetPortfolioStatus"
+    },
+    {
+      "intent": "CheckAccountBalance"
+    },
+    {
+      "intent": "SetBuyOrder",
+      "slots": [
+        {
+          "name": "Company",
+          "type": "AMAZON.US_FIRST_NAME"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        },
+        {
+          "name": "Amount",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "RangeTo",
+          "type": "AMAZON.NUMBER"
+        },
+	    {
+          "name": "RangeFrom",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ConfirmBuyOrder"
+    },
+    {
+       "intent": "StockRecommendations"
+    }
+  ]
+}
